@@ -110,6 +110,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll-include-cache (~> 0.1.0)
   minimal-mistakes-jekyll
   spec (~> 5.3, >= 5.3.4)
 
