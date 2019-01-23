@@ -4,13 +4,4 @@
 
 # layout: home
 ---
----
-layout: home
-author_profile: true
----
----
-layout: splash
-classes:
-  - landing
-  - dark-theme
----
+
