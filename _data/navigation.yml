@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Portafolio"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # url: /about/
   - title: "Publicaciones"
   #   url: /year-archive/
   # - title: "Sample Collections"

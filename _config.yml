@@ -15,12 +15,12 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    :  "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-CO"
 title                    : "Data Blog"
 title_separator          : "|"
 name                     : "Victor Franco"
 description              : "Un lugar para hablar de desarrollo WEB, análisis de datos, marketing digital, entre otras cositas."
-url                      : "http://www.vifrac.com/" # "https://vifrac.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.vifrac.com" # "https://vifrac.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vifrac/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/blog.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -29,16 +29,16 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    # https://connect.facebook.net
+    appid                : # 1388316924766886
+    num_posts            :  # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Franco"
-  avatar           : "/assets/images/perfil_64x64.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/favicon_128x128.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Apasionado por la tecnología, con experiencia en diferentes campos, desarrollo WEB, análisis de datos, marketing digital, entre otras cositas."
   location         : "Bogotá - Colombia"
   # email            :  "victor.franco@factorysoft.co"
@@ -290,6 +290,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
