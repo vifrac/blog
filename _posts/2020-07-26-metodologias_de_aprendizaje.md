@@ -24,8 +24,6 @@ Stuart Webb sugiere que la clave es la frecuencia con la que las palabras que ap
 
 Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugiere una medida en cuanto a la curva del olvido o la pérdida de retentiva en el transcurso tiempo y que ello depende en gran medida factores como la dificultad de la materia (por ejemplo si es absurdo o tiene sentido), su representación (véase regla mnemotécnica) y factores fisiológicos como el estrés y el sueño.
 
-![Repeticion espaciada]({{ site.baseurl }}/assets/images/spacedRepetition.png)
-
 <figure >
     <a href="{{ site.baseurl }}/assets/images/spacedRepetition.png"><img src="{{ site.baseurl }}/assets/images/spacedRepetition.png"></a>
     <figcaption>Repeticion espaciada y curva del olvido.</figcaption>
@@ -33,9 +31,15 @@ Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugie
 
 Dicha curva del olvido la podemos contrarrestar con metodologías de aprendizaje espaciado como el método Leitner, se trata de un sistema que consiste en introducir fichas con información en distintas cajas. La lógica del sistema hace que los temas más sencillos de aprender aparezcan con menos frecuencia, mientras que los temas complicados aparecen un mayor número de veces.
 
-![Metodo leitner 2]({{site.url}}{{site.baseurl}}/assets/images/metodoLeitner1.jpg)
+<figure >
+    <a href="{{ site.baseurl }}/assets/images/metodoLeitner1.jpg"><img src="{{ site.baseurl }}/assets/images/metodoLeitner1.jpg"></a>
+    <figcaption>Cajas leitner.</figcaption>
+</figure>
 
-![Metodo leitner 1]({{site.url}}{{site.baseurl}}/assets/images/metodoLeitner2.png)
+<figure >
+    <a href="{{ site.baseurl }}/assets/images/metodoLeitner2.png"><img src="{{ site.baseurl }}/assets/images/metodoLeitner2.png"></a>
+    <figcaption>Metodo leitner.</figcaption>
+</figure>
 
 De modo que para probar si hay algo de verdad en lo que estos autores sugieren basta con aprenderse 24 palabras diarias (2 palabras por hora en un espacio de 12 horas) durante 34 días, lo que al finalizar este tiempo tendremos en nuestro vocabulario 800 nuevas palabras de las más frecuentemente utilizadas en ingles.
 
