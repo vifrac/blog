@@ -24,16 +24,6 @@ Stuart Webb sugiere que la clave es la frecuencia con la que las palabras que ap
 
 Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugiere una medida en cuanto a la curva del olvido o la pérdida de retentiva en el transcurso tiempo y que ello depende en gran medida factores como la dificultad de la materia (por ejemplo si es absurdo o tiene sentido), su representación (véase regla mnemotécnica) y factores fisiológicos como el estrés y el sueño.
 
-![Repeticion espaciada]({{ base_path }}/assets/images/spacedRepetition.png)
-
-<figure >
-    <a href="{{ base_path }}/assets/images/spacedRepetition.png"><img src="{{ base_path }}/assets/images/spacedRepetition.png"></a>
-    <figcaption>Repeticion espaciada y curva del olvido.</figcaption>
-</figure>
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/spacedRepetition.png" alt="nueva imagen">
-![nueva imagen]({{ site.url }}{{ site.baseurl }}/assets/images/spacedRepetition.png)
-
 Dicha curva del olvido la podemos contrarrestar con metodologías de aprendizaje espaciado como el método Leitner, se trata de un sistema que consiste en introducir fichas con información en distintas cajas. La lógica del sistema hace que los temas más sencillos de aprender aparezcan con menos frecuencia, mientras que los temas complicados aparecen un mayor número de veces.
 
 ![Metodo leitner 2](/assets/images/metodoLeitner1.jpg)
