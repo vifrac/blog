@@ -24,13 +24,13 @@ Stuart Webb sugiere que la clave es la frecuencia con la que las palabras que ap
 
 Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugiere una medida en cuanto a la curva del olvido o la pérdida de retentiva en el transcurso tiempo y que ello depende en gran medida factores como la dificultad de la materia (por ejemplo si es absurdo o tiene sentido), su representación (véase regla mnemotécnica) y factores fisiológicos como el estrés y el sueño.
 
-![Repeticion espaciada](/assets/images/spaced_repetition.png)
+![Repeticion espaciada](/assets/images/spacedRepetition.png)
 
 Dicha curva del olvido la podemos contrarrestar con metodologías de aprendizaje espaciado como el método Leitner, se trata de un sistema que consiste en introducir fichas con información en distintas cajas. La lógica del sistema hace que los temas más sencillos de aprender aparezcan con menos frecuencia, mientras que los temas complicados aparecen un mayor número de veces.
 
-![Metodo leitner 2](/assets/images/metodo-leitner1.jpg)
+![Metodo leitner 2](/assets/images/metodoLeitner1.jpg)
 
-![Metodo leitner 1](/assets/images/metodo-leitner2.png)
+![Metodo leitner 1](/assets/images/metodoLeitner2.png)
 
 De modo que para probar si hay algo de verdad en lo que estos autores sugieren basta con aprenderse 24 palabras diarias (2 palabras por hora en un espacio de 12 horas) durante 34 días, lo que al finalizar este tiempo tendremos en nuestro vocabulario 800 nuevas palabras de las más frecuentemente utilizadas en ingles.
 
