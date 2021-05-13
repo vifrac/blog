@@ -24,10 +24,10 @@ Stuart Webb sugiere que la clave es la frecuencia con la que las palabras que ap
 
 Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugiere una medida en cuanto a la curva del olvido o la pérdida de retentiva en el transcurso tiempo y que ello depende en gran medida factores como la dificultad de la materia (por ejemplo si es absurdo o tiene sentido), su representación (véase regla mnemotécnica) y factores fisiológicos como el estrés y el sueño.
 
-![Repeticion espaciada](/assets/images/spacedRepetition.png)
+![Repeticion espaciada]({{ base_path }}/assets/images/spacedRepetition.png)
 
 <figure >
-    <a href="/assets/images/spacedRepetition.png"><img src="/assets/images/spacedRepetition.png"></a>
+    <a href="{{ base_path }}/assets/images/spacedRepetition.png"><img src="{{ base_path }}/assets/images/spacedRepetition.png"></a>
     <figcaption>Repeticion espaciada y curva del olvido.</figcaption>
 </figure>
 
