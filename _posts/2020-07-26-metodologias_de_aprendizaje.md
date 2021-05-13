@@ -26,7 +26,7 @@ Por otro lado el autor de Sobre la memoria (1885), Hermann Ebbinghaus, nos sugie
 
 Dicha curva del olvido la podemos contrarrestar con metodologías de aprendizaje espaciado como el método Leitner, se trata de un sistema que consiste en introducir fichas con información en distintas cajas. La lógica del sistema hace que los temas más sencillos de aprender aparezcan con menos frecuencia, mientras que los temas complicados aparecen un mayor número de veces.
 
-![Metodo leitner 2](/assets/images/metodoLeitner1.jpg)
+![Metodo leitner 2]({{site.url}}{{site.baseurl}}/assets/images/metodoLeitner1.jpg)
 
 ![Metodo leitner 1](/assets/images/metodoLeitner2.png)
 
