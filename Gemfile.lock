@@ -315,7 +315,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  minimal-mistakes-jekyll (~> 4.15, >= 4.15.1)
+  minimal-mistakes-jekyll (~> 4.24)
   spec (~> 5.3, >= 5.3.4)
 
 BUNDLED WITH
