@@ -119,9 +119,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:victor.franco@factorysoft.co
-    - label: "Website"
+    - label: "Comunidad Ruby"
       icon: "fas fa-fw fa-link"
-      url: "http://www.factorysoft.co"
+      url: "https://aprenderuby.github.io/blogComunidadAprendeRuby/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vifrac"
