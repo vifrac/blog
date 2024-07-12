@@ -294,6 +294,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.9)
   jekyll-algolia
   jekyll-feed
   jekyll-gist
@@ -301,7 +302,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  minimal-mistakes-jekyll (~> 4.24, >= 4.24.0)
+  minimal-mistakes-jekyll (~> 4.26)
   spec (~> 5.3, >= 5.3.4)
 
 BUNDLED WITH

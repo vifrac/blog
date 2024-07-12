@@ -1,9 +1,11 @@
 source "https://rubygems.org"
 gem 'spec', '~> 5.3', '>= 5.3.4'
-gem 'minimal-mistakes-jekyll', '~> 4.24', '>= 4.24.0'
+gem "jekyll", "~> 3.9" 
+gem 'minimal-mistakes-jekyll', '~> 4.26'
 
 
 gem 'github-pages', group: :jekyll_plugins
+
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
